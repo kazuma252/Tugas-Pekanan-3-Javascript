@@ -1,0 +1,17 @@
+{
+  "name": "sanber-45",
+  "version": "1.0.0",
+  "description": "belajar javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node print.js"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "andre",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
